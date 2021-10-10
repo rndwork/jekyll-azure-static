@@ -57,6 +57,11 @@
       "route": "/welcome-to-jekyll.html",
       "redirect": "/deals",
       "statusCode": 301
+    },
+	{
+      "route": "/jekyll/update/2021/10/10/welcome-to-jekyll.html",
+      "redirect": "/deals",
+      "statusCode": 301
     }
   ],
   "navigationFallback": {
