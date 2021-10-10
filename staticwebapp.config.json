@@ -6,9 +6,13 @@
       "statusCode": 301
     },
 	{
-      "route": "/about/",
-      "redirect": "/about2/",
+      "route": ".html",
+      "redirect": "/",
       "statusCode": 301
+    },
+	{
+      "route": ".html",
+      "rewrite": "",
     }
   ],
   "navigationFallback": {
