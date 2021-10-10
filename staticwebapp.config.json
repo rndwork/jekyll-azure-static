@@ -6,8 +6,8 @@
       "statusCode": 301
     },
 	{
-      "route": ".html",
-      "redirect": "/",
+      "route": "/about/",
+      "redirect": "/about3/",
       "statusCode": 301
     },
 	{
