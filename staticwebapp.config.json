@@ -1,13 +1,13 @@
 {
   "routes": [
     {
-      "route": "*.html",
-      "redirect": "*/",
+      "route": ".html",
+      "redirect": "/",
       "statusCode": 301
     },
 	{
       "route": "/about/",
-      "redirect": "/about1/",
+      "redirect": "/about2/",
       "statusCode": 301
     }
   ],
