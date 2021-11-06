@@ -3,5 +3,12 @@
     "404": {
       "rewrite": "/404.html"
     }
-  }
+  },
+  "routes": [
+    {
+      "route": "/index.html",
+      "redirect": "/",
+      "statusCode": 301
+    }
+  ]
 }
